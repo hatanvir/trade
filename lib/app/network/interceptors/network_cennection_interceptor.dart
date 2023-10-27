@@ -1,7 +1,7 @@
 
 import 'package:dio/dio.dart' as dio;
-import 'package:tread/app/core/widgets/custom_toast.dart';
-import 'package:tread/app/network/check_network_conn.dart';
+import 'package:trade/app/core/widgets/custom_toast.dart';
+import 'package:trade/app/network/check_network_conn.dart';
 import 'package:get/get.dart';
 
 class NetworkConnectionInterceptor implements dio.InterceptorsWrapper{

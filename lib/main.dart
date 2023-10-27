@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:tread/app/bindings/initial_bindings.dart';
-import 'package:tread/app/core/values/app_colors.dart';
+import 'package:trade/app/bindings/initial_bindings.dart';
+import 'package:trade/app/core/values/app_colors.dart';
 
 import 'package:get/get.dart';
-import 'package:tread/app/data/shared_pref.dart';
+import 'package:trade/app/data/shared_pref.dart';
 import 'package:path_provider/path_provider.dart';
 
 import 'app/routes/app_pages.dart';

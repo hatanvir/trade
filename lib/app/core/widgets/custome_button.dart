@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:tread/app/extensions/padding_extenstion.dart';
+import 'package:trade/app/extensions/padding_extenstion.dart';
 
 import '../values/app_colors.dart';
 

@@ -1,12 +1,12 @@
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
-import 'package:tread/app/modules/campaign/bindings/campaign_binding.dart';
-import 'package:tread/app/modules/campaign/views/campaign_view.dart';
-import 'package:tread/app/modules/profile/bindings/profile_binding.dart';
-import 'package:tread/app/modules/profile/views/profile_view.dart';
-import 'package:tread/app/modules/trades/bindings/trades_binding.dart';
-import 'package:tread/app/modules/trades/views/trades_view.dart';
-import 'package:tread/app/routes/app_pages.dart';
+import 'package:trade/app/modules/campaign/bindings/campaign_binding.dart';
+import 'package:trade/app/modules/campaign/views/campaign_view.dart';
+import 'package:trade/app/modules/profile/bindings/profile_binding.dart';
+import 'package:trade/app/modules/profile/views/profile_view.dart';
+import 'package:trade/app/modules/trades/bindings/trades_binding.dart';
+import 'package:trade/app/modules/trades/views/trades_view.dart';
+import 'package:trade/app/routes/app_pages.dart';
 
 class DashboardController extends GetxController {
   var currentIndex = 0.obs;

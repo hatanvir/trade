@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import 'package:tread/app/data/shared_pref.dart';
-import 'package:tread/app/routes/app_pages.dart';
+import 'package:trade/app/data/shared_pref.dart';
+import 'package:trade/app/routes/app_pages.dart';
 
 class SpalshController extends GetxController {
   @override

@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import 'package:tread/app/core/base/general_response.dart';
-import 'package:tread/app/data/repository/campaign_repo.dart';
+import 'package:trade/app/core/base/general_response.dart';
+import 'package:trade/app/data/repository/campaign_repo.dart';
 
 class CampaignController extends GetxController {
   CampaignRepo campaignRepo = Get.find();

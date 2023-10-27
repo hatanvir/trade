@@ -1,5 +1,5 @@
-import 'package:tread/app/core/base/general_response.dart';
-import 'package:tread/app/data/services/auth_service.dart';
+import 'package:trade/app/core/base/general_response.dart';
+import 'package:trade/app/data/services/auth_service.dart';
 import 'package:get/get.dart';
 
 class AuthRepo {

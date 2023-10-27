@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:dio/dio.dart';
-import 'package:tread/app/helper/logout_helper.dart';
+import 'package:trade/app/helper/logout_helper.dart';
 
 
 class DioException {

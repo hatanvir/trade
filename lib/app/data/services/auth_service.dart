@@ -1,10 +1,10 @@
 import 'dart:convert';
 
 import 'package:flutter/foundation.dart';
-import 'package:tread/app/core/base/general_response.dart';
-import 'package:tread/app/network/apis.dart';
-import 'package:tread/app/network/base_api_provider.dart';
-import 'package:tread/app/network/dio_exception.dart';
+import 'package:trade/app/core/base/general_response.dart';
+import 'package:trade/app/network/apis.dart';
+import 'package:trade/app/network/base_api_provider.dart';
+import 'package:trade/app/network/dio_exception.dart';
 
 class AuthService extends BaseApiProvider {
   Future<GeneralResponse> login(

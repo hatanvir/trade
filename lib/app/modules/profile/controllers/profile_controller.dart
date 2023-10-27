@@ -1,8 +1,8 @@
 import 'package:get/get.dart';
-import 'package:tread/app/core/base/general_response.dart';
-import 'package:tread/app/core/widgets/custom_toast.dart';
-import 'package:tread/app/data/models/profile_info_response.dart';
-import 'package:tread/app/data/repository/profile_repo.dart';
+import 'package:trade/app/core/base/general_response.dart';
+import 'package:trade/app/core/widgets/custom_toast.dart';
+import 'package:trade/app/data/models/profile_info_response.dart';
+import 'package:trade/app/data/repository/profile_repo.dart';
 
 class ProfileController extends GetxController {
   ProfileRepo profileRepo = Get.find();
