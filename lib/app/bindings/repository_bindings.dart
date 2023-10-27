@@ -1,9 +1,9 @@
 
-import 'package:movie_online/app/data/repository/auth_repo.dart';
+import 'package:tread/app/data/repository/auth_repo.dart';
 import 'package:get/get.dart';
-import 'package:movie_online/app/data/repository/campaign_repo.dart';
-import 'package:movie_online/app/data/repository/profile_repo.dart';
-import 'package:movie_online/app/data/repository/trade_repo.dart';
+import 'package:tread/app/data/repository/campaign_repo.dart';
+import 'package:tread/app/data/repository/profile_repo.dart';
+import 'package:tread/app/data/repository/trade_repo.dart';
 
 class RepositoryBindings extends Bindings {
   @override

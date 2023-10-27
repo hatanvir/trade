@@ -2,11 +2,11 @@ import 'dart:convert';
 
 import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
-import 'package:movie_online/app/core/base/general_response.dart';
-import 'package:movie_online/app/data/models/movie_response.dart';
-import 'package:movie_online/app/network/apis.dart';
-import 'package:movie_online/app/network/base_api_provider.dart';
-import 'package:movie_online/app/network/dio_exception.dart';
+import 'package:tread/app/core/base/general_response.dart';
+import 'package:tread/app/data/models/movie_response.dart';
+import 'package:tread/app/network/apis.dart';
+import 'package:tread/app/network/base_api_provider.dart';
+import 'package:tread/app/network/dio_exception.dart';
 
 class CampaignService extends BaseApiProvider {
   Future<GeneralResponse> getCampaignData() async {

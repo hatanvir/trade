@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
-import 'package:movie_online/app/core/widgets/no_data_found_widget.dart';
-import 'package:movie_online/app/extensions/padding_extenstion.dart';
+import 'package:tread/app/core/widgets/no_data_found_widget.dart';
+import 'package:tread/app/extensions/padding_extenstion.dart';
 
 import '../controllers/campaign_controller.dart';
 

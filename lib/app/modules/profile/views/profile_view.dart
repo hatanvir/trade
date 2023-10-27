@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
-import 'package:movie_online/app/extensions/padding_extenstion.dart';
+import 'package:tread/app/extensions/padding_extenstion.dart';
 
 import '../controllers/profile_controller.dart';
 

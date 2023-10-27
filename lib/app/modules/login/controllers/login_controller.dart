@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:get/get.dart';
-import 'package:movie_online/app/core/widgets/custom_toast.dart';
-import 'package:movie_online/app/data/repository/auth_repo.dart';
-import 'package:movie_online/app/data/shared_pref.dart';
-import 'package:movie_online/app/routes/app_pages.dart';
+import 'package:tread/app/core/widgets/custom_toast.dart';
+import 'package:tread/app/data/repository/auth_repo.dart';
+import 'package:tread/app/data/shared_pref.dart';
+import 'package:tread/app/routes/app_pages.dart';
 
 import '../../../core/base/general_response.dart';
 

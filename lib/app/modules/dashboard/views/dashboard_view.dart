@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
-import 'package:movie_online/app/routes/app_pages.dart';
+import 'package:tread/app/routes/app_pages.dart';
 
 import '../controllers/dashboard_controller.dart';
 

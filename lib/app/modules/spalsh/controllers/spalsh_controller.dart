@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import 'package:movie_online/app/data/shared_pref.dart';
-import 'package:movie_online/app/routes/app_pages.dart';
+import 'package:tread/app/data/shared_pref.dart';
+import 'package:tread/app/routes/app_pages.dart';
 
 class SpalshController extends GetxController {
   @override

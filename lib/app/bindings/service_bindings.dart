@@ -1,8 +1,8 @@
-import 'package:movie_online/app/data/services/auth_service.dart';
+import 'package:tread/app/data/services/auth_service.dart';
 import 'package:get/get.dart';
-import 'package:movie_online/app/data/services/campaign_service.dart';
-import 'package:movie_online/app/data/services/profile_service.dart';
-import 'package:movie_online/app/data/services/trade_service.dart';
+import 'package:tread/app/data/services/campaign_service.dart';
+import 'package:tread/app/data/services/profile_service.dart';
+import 'package:tread/app/data/services/trade_service.dart';
 
 class ServiceBindings extends Bindings {
   @override

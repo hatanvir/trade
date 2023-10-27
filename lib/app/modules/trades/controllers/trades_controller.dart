@@ -1,8 +1,8 @@
 import 'package:get/get.dart';
-import 'package:movie_online/app/core/base/general_response.dart';
-import 'package:movie_online/app/core/widgets/custom_toast.dart';
-import 'package:movie_online/app/data/models/trad_list_response.dart';
-import 'package:movie_online/app/data/repository/trade_repo.dart';
+import 'package:tread/app/core/base/general_response.dart';
+import 'package:tread/app/core/widgets/custom_toast.dart';
+import 'package:tread/app/data/models/trad_list_response.dart';
+import 'package:tread/app/data/repository/trade_repo.dart';
 
 class TradesController extends GetxController {
   TradeRepo tradeRepo = Get.find();

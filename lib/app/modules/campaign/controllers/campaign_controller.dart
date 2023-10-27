@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import 'package:movie_online/app/core/base/general_response.dart';
-import 'package:movie_online/app/data/repository/campaign_repo.dart';
+import 'package:tread/app/core/base/general_response.dart';
+import 'package:tread/app/data/repository/campaign_repo.dart';
 
 class CampaignController extends GetxController {
   CampaignRepo campaignRepo = Get.find();

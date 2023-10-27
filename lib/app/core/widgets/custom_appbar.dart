@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:movie_online/app/core/values/app_colors.dart';
+import 'package:tread/app/core/values/app_colors.dart';
 
 AppBar customAppbar({
   required String title
