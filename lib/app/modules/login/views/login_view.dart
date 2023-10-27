@@ -101,7 +101,7 @@ class LoginView extends GetView<LoginController> {
                   width: wp!(60),
                   height: 40,
                   textColor: AppColor.whiteColor,
-                  bgColor: AppColor.primaryColor,
+                  bgColor: AppColor.blueColor,
                   btnName: 'Login',
                   borderRadius: 20,
                   isLoading: controller.isLoading.value,
